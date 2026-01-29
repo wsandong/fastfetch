@@ -1,0 +1,19 @@
+{
+ "modules":[
+  "os",
+  "host",
+  "kernel",
+  "shell",
+  "display",
+  "de",
+  "wm",
+  "terminal",
+  "cpu",
+  "gpu",
+  "memory",
+  {
+  "type": "disk",
+   "folders": ["/","/home"]
+  }
+ ]
+}
